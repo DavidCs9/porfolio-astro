@@ -5,7 +5,7 @@ import ContactCTA from '../components/ContactCTA.astro';
 import Hero from '../components/Hero.astro';
 ---
 
-<BaseLayout title="About | Jeanine White" description="About Jeanine White Lorem Ipsum">
+<BaseLayout title="About | David Castro" description="About David Castro">
 	<div class="stack gap-20">
 		<main class="wrapper about">
 			<Hero
@@ -21,10 +21,20 @@ import Hero from '../components/Hero.astro';
 			</Hero>
 
 			<section>
+				<h2 class="section-title">Experience</h2>
+				<div class="content" >
+					<p style="font-weight: 700;">Frontend Developer, PID Electronics (2023)</p>
+					<p class="job-description" style="color: #94a3b8;">Sole frontend developer for the web application 'Recepcionista,' responsible for orchestrating and overseeing large-scale industrial visits. Leveraged Angular for front-end development, DynamoDB for robust database management, utilized TailwindCSS for responsive and modern design, and integrated AWS Cognito for secure authentication.</p>
+					<p style="font-weight: 700;">Software Developer Intern, Interceramic (2023)</p>
+					<p class="job-description" style="color: #94a3b8;">Create objects in Oracle SQL DB, creationg of views using Oracle Forms and Reports.</p>
+				</div>
+			</section>
+
+			<section>
 				<h2 class="section-title">Background</h2>
 				<div class="content">
 					<p>
-						I am a Mechatronics Engineer with a passion for web development. I have been working as a Frontend Developer for over a year now and I am currently working as a freelancer.
+						I am a Mechatronics Engineer with a passion for web development. I have been working as a Frontend Developer for over a year now and I am currently working as a Frontend Developer at PID Electronics.
 					</p>
 				</div>
 			</section>
@@ -47,6 +57,10 @@ import Hero from '../components/Hero.astro';
 </BaseLayout>
 
 <style>
+
+	.job-description {
+		font-size: medium;
+	}
 	.about {
 		display: flex;
 		flex-direction: column;
