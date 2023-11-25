@@ -1,7 +1,7 @@
 ---
 title: AIrtist
 publishDate: 2020-03-02 00:00:00
-img: /assets/airtist.png
+img: /assets/airtist.webp
 img_alt: Airtist logo
 description: |
   Web application for creating images using AI.

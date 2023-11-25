@@ -1,7 +1,7 @@
 ---
 title: Castrobot
 publishDate: 2020-03-04 00:00:00
-img: /assets/castrobot.png
+img: /assets/castrobot.webp
 img_alt: Castrobot logo
 description: |
   CastroBot is a web application that allows users to chat with an intelligent virtual assistant built with Next.js, a popular web framework.
