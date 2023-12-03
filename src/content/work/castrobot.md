@@ -9,6 +9,7 @@ tags:
   - Next.js
   - React
   - OpenAI
+link: https://github.com/DavidCs9/castro-bot
 ---
 
 CastroBot is a web application that allows users to chat with an intelligent virtual assistant built with Next.js, a popular web framework.

@@ -8,6 +8,7 @@ description: |
 tags:
   - Astro
   - TailwindCSS
+link: https://www.marcosdacar.com
 ---
 
 Landing page for DACAR company, a company that frames art and photographs. The website is built with Astro, a new static site builder that uses React as a rendering engine, and TailwindCSS for styling.

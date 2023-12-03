@@ -10,6 +10,7 @@ tags:
   - React
   - Express
   - MongoDB
+link: https://github.com/DavidCs9/AIrtist
 ---
 
 ## AIrtist

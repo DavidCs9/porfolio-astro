@@ -9,6 +9,7 @@ tags:
   - UI/UX
   - HTML
   - CSS
+link: https://tindog-landing-page.netlify.app/
 ---
 
 Landing Page for Tin Dog, a fake dating app for dogs. The website is built with HTML and CSS.
